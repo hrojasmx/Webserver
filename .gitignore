@@ -12,3 +12,9 @@ Quick Using Git .txt
 Quick Using Heroku.txt
 id_rsa
 id_rsa.pub
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/webserver.iml
+.idea/workspace.xml
