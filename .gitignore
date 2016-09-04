@@ -1,0 +1,9 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+Usung git.txt
+node_modules/
+Using git.txt
+server01.js
+server02.js
+server0301.js
+server0302.js
